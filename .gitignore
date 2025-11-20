@@ -1,4 +1,3 @@
-*.html
 cache/
 -root*
 !-root-bsc-temp*
